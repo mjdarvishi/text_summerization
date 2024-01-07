@@ -1,5 +1,5 @@
 from nltk.tokenize import word_tokenize
-from summerization import summarize
+from extractive_summerization import summarize
 from config import init,context_window_limit,input_text,style_text
 
 init()

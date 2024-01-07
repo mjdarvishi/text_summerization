@@ -12,7 +12,7 @@
 # Documentation
 this code has 2 part 
 
-* First part of this project is summerizing text that symmerization.py is responsible for. The process includes:
+* First part of this project is summerizing text with extractive summerization approach that extractive_symmerization.py is responsible for. The process includes:
     * calculate frequency of words in the text
     * tokenize  the sentences
     * calculate the score for each tokenized sentence base on the words frecuncy 
